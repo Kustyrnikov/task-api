@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Проснуться",
+    "status": "done"
+  },
+  {
+    "id": 2,
+    "title": "Подумскроллить",
+    "status": "done"
+  },
+  {
+    "id": 3,
+    "title": "Сесть делать практику",
+    "status": "in_progress"
+  },
+  {
+    "id": 4,
+    "title": "Сделать отчёт",
+    "status": "todo"
+  }
+]
